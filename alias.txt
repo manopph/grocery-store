@@ -1,0 +1,5 @@
+Alias /w14/ "d:/www/bisad-w14/" 
+<Directory "d:/www/bisad-w14/">        
+	Require all granted
+	Options Indexes FollowSymLinks
+</Directory>
